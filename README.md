@@ -2,4 +2,4 @@
 
 Dicoding Submission
 
-kualifikasi gambar batu gunting kertas
+kualifikasi gambar batu gunting kertas mengunakan tensor flow
